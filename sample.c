@@ -3,4 +3,5 @@
 int main()
 {
   printf("welcome to git");
+  printf("practicing git");
 }
